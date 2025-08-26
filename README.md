@@ -20,10 +20,6 @@
 - 구축년도 : 2020년
 - 구축량 : 10,000문장 (음성), 27만문장 (코퍼스)
 
-
-
-- 즉, A와 의미적으로 가장 가까운 단어를 C로 대응시킨다.
-
 <br />
 
 <img width="582" height="513" alt="image" src="https://github.com/user-attachments/assets/a360e8d6-7596-4297-a3d1-ac67a0a368ca" />
