@@ -26,5 +26,5 @@
 
 <br />
 
-### 실행 결과
-<img width="511" height="257" alt="image" src="https://github.com/user-attachments/assets/5a9c014e-710b-4029-9a1b-93115f23d56b" />
+<img width="582" height="513" alt="image" src="https://github.com/user-attachments/assets/a360e8d6-7596-4297-a3d1-ac67a0a368ca" />
+
